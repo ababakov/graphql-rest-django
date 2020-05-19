@@ -1,3 +1,5 @@
+[Client side](https://github.com/ababakov/graphql-rest-wrap)
+
 ## Django REST & Graphql sample backend
 
 generate graphql scheme with 
